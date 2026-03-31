@@ -5,7 +5,7 @@ This repository contains a simple machine-learning (or learning machine) demo im
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This repository showcases an experimentation environment combining:
 
@@ -22,7 +22,7 @@ The main goal is to explore and learn how machine-learning (or algorithmic model
 
 ---
 
-## ✅ Features
+##  Features
 
 - Pure C implementation: high-performance code for core logic  
 - Python support: for data manipulation, scripting, or glue-code  
@@ -31,7 +31,7 @@ The main goal is to explore and learn how machine-learning (or algorithmic model
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
